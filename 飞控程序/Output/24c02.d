@@ -1,0 +1,21 @@
+.\Output\24c02.o: HARDWARE\24c02.c
+.\Output\24c02.o: HARDWARE\24c02.h
+.\Output\24c02.o: .\CMSIS\stm32f10x.h
+.\Output\24c02.o: .\CMSIS\core_cm3.h
+.\Output\24c02.o: D:\D Program Files\Keil4 MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\Output\24c02.o: .\CMSIS\system_stm32f10x.h
+.\Output\24c02.o: .\USER\stm32f10x_conf.h
+.\Output\24c02.o: .\FWlib\inc\stm32f10x_adc.h
+.\Output\24c02.o: .\CMSIS\stm32f10x.h
+.\Output\24c02.o: .\FWlib\inc\stm32f10x_bkp.h
+.\Output\24c02.o: .\FWlib\inc\stm32f10x_exti.h
+.\Output\24c02.o: .\FWlib\inc\stm32f10x_gpio.h
+.\Output\24c02.o: .\FWlib\inc\stm32f10x_pwr.h
+.\Output\24c02.o: .\FWlib\inc\stm32f10x_rcc.h
+.\Output\24c02.o: .\FWlib\inc\stm32f10x_rtc.h
+.\Output\24c02.o: .\FWlib\inc\stm32f10x_spi.h
+.\Output\24c02.o: .\FWlib\inc\stm32f10x_tim.h
+.\Output\24c02.o: .\FWlib\inc\stm32f10x_usart.h
+.\Output\24c02.o: .\FWlib\inc\misc.h
+.\Output\24c02.o: HARDWARE\myiic.h
+.\Output\24c02.o: HARDWARE\SysTick.h

@@ -1,0 +1,20 @@
+.\Output\rtc.o: HARDWARE\rtc.c
+.\Output\rtc.o: HARDWARE\rtc.h
+.\Output\rtc.o: .\CMSIS\stm32f10x.h
+.\Output\rtc.o: .\CMSIS\core_cm3.h
+.\Output\rtc.o: D:\D Program Files\Keil4 MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\Output\rtc.o: .\CMSIS\system_stm32f10x.h
+.\Output\rtc.o: .\USER\stm32f10x_conf.h
+.\Output\rtc.o: .\FWlib\inc\stm32f10x_adc.h
+.\Output\rtc.o: .\CMSIS\stm32f10x.h
+.\Output\rtc.o: .\FWlib\inc\stm32f10x_bkp.h
+.\Output\rtc.o: .\FWlib\inc\stm32f10x_exti.h
+.\Output\rtc.o: .\FWlib\inc\stm32f10x_gpio.h
+.\Output\rtc.o: .\FWlib\inc\stm32f10x_pwr.h
+.\Output\rtc.o: .\FWlib\inc\stm32f10x_rcc.h
+.\Output\rtc.o: .\FWlib\inc\stm32f10x_rtc.h
+.\Output\rtc.o: .\FWlib\inc\stm32f10x_spi.h
+.\Output\rtc.o: .\FWlib\inc\stm32f10x_tim.h
+.\Output\rtc.o: .\FWlib\inc\stm32f10x_usart.h
+.\Output\rtc.o: .\FWlib\inc\misc.h
+.\Output\rtc.o: HARDWARE\SysTick.h

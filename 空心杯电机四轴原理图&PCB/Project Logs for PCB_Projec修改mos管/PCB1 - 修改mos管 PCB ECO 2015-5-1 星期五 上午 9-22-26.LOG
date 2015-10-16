@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MOTO1 Pin=Q1-2
+Removed Pin From Net: NetName=GND_BAT Pin=Q1-3
+Removed Pin From Net: NetName=MOTO2 Pin=Q2-2
+Removed Pin From Net: NetName=GND_BAT Pin=Q2-3
+Removed Pin From Net: NetName=MOTO3 Pin=Q3-2
+Removed Pin From Net: NetName=GND_BAT Pin=Q3-3
+Removed Pin From Net: NetName=MOTO4 Pin=Q4-2
+Removed Pin From Net: NetName=GND_BAT Pin=Q4-3
+Added Pin To Net: NetName=GND_BAT Pin=Q1-2
+Added Pin To Net: NetName=MOTO1 Pin=Q1-3
+Added Pin To Net: NetName=GND_BAT Pin=Q2-2
+Added Pin To Net: NetName=MOTO2 Pin=Q2-3
+Added Pin To Net: NetName=GND_BAT Pin=Q3-2
+Added Pin To Net: NetName=MOTO3 Pin=Q3-3
+Added Pin To Net: NetName=GND_BAT Pin=Q4-2
+Added Pin To Net: NetName=MOTO4 Pin=Q4-3
+Change Class Name : Old Net Name=Sheet1 New Net Name=Sheet1 - 修改mos管
+Added Member To Class: ClassName=Sheet1 - 修改mos管 Member=Component R11 res
+Added Room: Name=Sheet1 - 修改mos管

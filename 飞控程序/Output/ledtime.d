@@ -1,0 +1,22 @@
+.\Output\ledtime.o: APP\ledtime.c
+.\Output\ledtime.o: APP\ledtime.h
+.\Output\ledtime.o: .\CMSIS\stm32f10x.h
+.\Output\ledtime.o: .\CMSIS\core_cm3.h
+.\Output\ledtime.o: D:\D Program Files\Keil4 MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\Output\ledtime.o: .\CMSIS\system_stm32f10x.h
+.\Output\ledtime.o: .\USER\stm32f10x_conf.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_adc.h
+.\Output\ledtime.o: .\CMSIS\stm32f10x.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_bkp.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_dma.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_exti.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_flash.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_gpio.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_pwr.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_rcc.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_rtc.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_spi.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_tim.h
+.\Output\ledtime.o: .\FWlib\inc\stm32f10x_usart.h
+.\Output\ledtime.o: .\FWlib\inc\misc.h
+.\Output\ledtime.o: .\HARDWARE\led.h

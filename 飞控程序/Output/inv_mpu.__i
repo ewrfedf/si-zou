@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -O0 --apcs=interwork -I.\CMSIS -I.\USER -I.\FWlib\inc -I.\HARDWARE -I.\FATFS\src -I.\FATFS\exfuns -I.\TEXT -I.\HARDWARE\MPU6050 
+-I "D:\D Program Files\Keil4 MDK\ARM\RV31\INC" 
+-I "D:\D Program Files\Keil4 MDK\ARM\CMSIS\Include" 
+-I "D:\D Program Files\Keil4 MDK\ARM\Inc\ST\STM32F10x" 
+-DUSE_STDPERIPH_DRIVER -DTM32F10X_MD -o ".\Output\inv_mpu.o" --omf_browse ".\Output\inv_mpu.crf" --depend ".\Output\inv_mpu.d" "HARDWARE\MPU6050\inv_mpu.c"

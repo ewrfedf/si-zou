@@ -1,0 +1,14 @@
+Change Component Designator: Old Designator=D1 New Designator=D2
+Change Component Designator: Old Designator=D2-P New Designator=D1
+Change Component Designator: Old Designator=IIC2 New Designator=IIC1
+Change Component Designator: Old Designator=IIC New Designator=IIC2
+Change Component Designator: Old Designator=KEY New Designator=KEY1
+Change Component Designator: Old Designator=NRF New Designator=NRF1
+Change Component Designator: Old Designator=PO New Designator=PO1
+Change Component Designator: Old Designator=POWER New Designator=POWER1
+Change Component Designator: Old Designator=PWM-OUT New Designator=PWM-OUT1
+Change Component Designator: Old Designator=R4 New Designator=R5
+Change Component Designator: Old Designator=R5 New Designator=R6
+Change Component Designator: Old Designator=R6 New Designator=R4
+Change Component Designator: Old Designator=R6 New Designator=R7
+Change Component Designator: Old Designator=ST New Designator=ST1

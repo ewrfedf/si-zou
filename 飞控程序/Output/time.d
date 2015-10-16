@@ -1,0 +1,29 @@
+.\Output\time.o: HARDWARE\time.c
+.\Output\time.o: HARDWARE\time.h
+.\Output\time.o: .\CMSIS\stm32f10x.h
+.\Output\time.o: .\CMSIS\core_cm3.h
+.\Output\time.o: D:\D Program Files\Keil4 MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\Output\time.o: .\CMSIS\system_stm32f10x.h
+.\Output\time.o: .\USER\stm32f10x_conf.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_adc.h
+.\Output\time.o: .\CMSIS\stm32f10x.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_bkp.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_dma.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_exti.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_flash.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_gpio.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_pwr.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_rcc.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_rtc.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_spi.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_tim.h
+.\Output\time.o: .\FWlib\inc\stm32f10x_usart.h
+.\Output\time.o: .\FWlib\inc\misc.h
+.\Output\time.o: HARDWARE\led.h
+.\Output\time.o: HARDWARE\usart1.h
+.\Output\time.o: HARDWARE\SysTick.h
+.\Output\time.o: D:\D Program Files\Keil4 MDK\ARM\ARMCC\bin\..\include\stdio.h
+.\Output\time.o: .\APP\mpu6050.h
+.\Output\time.o: .\APP\imu.h
+.\Output\time.o: .\APP\control.h
+.\Output\time.o: .\APP\rc.h

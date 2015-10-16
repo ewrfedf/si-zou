@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator= NewDesignator=P10
+Change Component Designator: OldDesignator=432 NewDesignator=P2
+Change Component Designator: OldDesignator=G65 NewDesignator=P3
+Change Component Designator: OldDesignator=GV1 NewDesignator=P1
+Change Component Designator: OldDesignator=OUT1 NewDesignator=P4
+Change Component Designator: OldDesignator=OUT2 NewDesignator=P5
+Change Component Designator: OldDesignator=OUT3 NewDesignator=P6
+Change Component Designator: OldDesignator=OUT4 NewDesignator=P7
+Change Component Designator: OldDesignator=OUT5 NewDesignator=P8
+Change Component Designator: OldDesignator=OUT6 NewDesignator=P9
+Added Pin To Net: NetName=P-OUT5 Pin=U1-16
+Added Pin To Net: NetName=P-OUT6 Pin=U1-17
+Added Pin To Net: NetName=P-OUT1 Pin=U1-22
+Added Pin To Net: NetName=P-OUT2 Pin=U1-23
+Added Pin To Net: NetName=P-OUT3 Pin=U1-26
+Added Pin To Net: NetName=P-OUT4 Pin=U1-27
+Added Room: Name=Sheet1

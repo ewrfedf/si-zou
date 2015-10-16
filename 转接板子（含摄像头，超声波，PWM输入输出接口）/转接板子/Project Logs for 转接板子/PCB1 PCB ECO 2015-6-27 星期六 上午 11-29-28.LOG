@@ -1,0 +1,46 @@
+Added Component: Designator=P1(HDR1X3)
+Added Component: Designator=P2(HDR1X3)
+Added Component: Designator=P3(HDR1X3)
+Added Component: Designator=P4(HDR1X3)
+Added Component: Designator=P5(HDR1X3)
+Added Component: Designator=P6(HDR1X3)
+Added Component: Designator=P7(HDR1X3)
+Added Component: Designator=P8(HDR1X3)
+Added Component: Designator=P9(HDR1X3)
+Added Pin To Net: NetName=P-IN1 Pin=P1-1
+Added Pin To Net: NetName=VCC-5 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=P-IN2 Pin=P2-1
+Added Pin To Net: NetName=P-IN3 Pin=P2-2
+Added Pin To Net: NetName=P-IN4 Pin=P2-3
+Added Pin To Net: NetName=P-IN5 Pin=P3-1
+Added Pin To Net: NetName=P-IN6 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=P-OUT1 Pin=P4-1
+Added Pin To Net: NetName=VCC-5 Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=P-OUT2 Pin=P5-1
+Added Pin To Net: NetName=VCC-5 Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P5-3
+Added Pin To Net: NetName=P-OUT3 Pin=P6-1
+Added Pin To Net: NetName=VCC-5 Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P6-3
+Added Pin To Net: NetName=P-OUT4 Pin=P7-1
+Added Pin To Net: NetName=VCC-5 Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=P-OUT5 Pin=P8-1
+Added Pin To Net: NetName=VCC-5 Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P8-3
+Added Pin To Net: NetName=P-OUT6 Pin=P9-1
+Added Pin To Net: NetName=VCC-5 Pin=P9-2
+Added Pin To Net: NetName=GND Pin=P9-3
+Added Member To Class: ClassName=Sheet1 Member=Component P1 P-IN1
+Added Member To Class: ClassName=Sheet1 Member=Component P2 P-IN234
+Added Member To Class: ClassName=Sheet1 Member=Component P3 P-IN56
+Added Member To Class: ClassName=Sheet1 Member=Component P4 P-OUT1
+Added Member To Class: ClassName=Sheet1 Member=Component P5 P-OUT2
+Added Member To Class: ClassName=Sheet1 Member=Component P6 P-OUT3
+Added Member To Class: ClassName=Sheet1 Member=Component P7 P-OUT4
+Added Member To Class: ClassName=Sheet1 Member=Component P8 P-OUT5
+Added Member To Class: ClassName=Sheet1 Member=Component P9 P-OUT6
+Added Room: Name=Sheet1

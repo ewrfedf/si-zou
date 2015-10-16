@@ -1,0 +1,37 @@
+Added Component: Designator=D11(0805)
+Added Component: Designator=D12(0805)
+Added Component: Designator=D13(0805)
+Added Component: Designator=D14(0805)
+Added Component: Designator=R1-(0603)
+Added Component: Designator=R2-(0603)
+Added Component: Designator=R3-(0603)
+Added Component: Designator=R4-(0603)
+Added Pin To Net: NetName=GND Pin=D11-2
+Added Pin To Net: NetName=GND Pin=D12-2
+Added Pin To Net: NetName=GND Pin=D13-2
+Added Pin To Net: NetName=GND Pin=D14-2
+Added Pin To Net: NetName=VCC_BAT Pin=R1--1
+Added Pin To Net: NetName=VCC_BAT Pin=R2--1
+Added Pin To Net: NetName=VCC_BAT Pin=R3--1
+Added Pin To Net: NetName=VCC_BAT Pin=R4--1
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=R1--2
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_1 Pin=R2--2
+Added Net: Name=NetD12_1
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=R3--2
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=R4--2
+Added Net: Name=NetD14_1
+Added Member To Class: ClassName=Sheet1 - 修改mos管 Member=Component D11 LED0
+Added Member To Class: ClassName=Sheet1 - 修改mos管 Member=Component D12 LED0
+Added Member To Class: ClassName=Sheet1 - 修改mos管 Member=Component D13 LED0
+Added Member To Class: ClassName=Sheet1 - 修改mos管 Member=Component D14 LED0
+Added Member To Class: ClassName=Sheet1 - 修改mos管 Member=Component R1- res
+Added Member To Class: ClassName=Sheet1 - 修改mos管 Member=Component R2- res
+Added Member To Class: ClassName=Sheet1 - 修改mos管 Member=Component R3- res
+Added Member To Class: ClassName=Sheet1 - 修改mos管 Member=Component R4- res
+Added Room: Name=Sheet1 - 修改mos管
